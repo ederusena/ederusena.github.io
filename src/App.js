@@ -1,22 +1,20 @@
-import {
-  Route,
-  Switch,
-  HashRouter as Router,
-} from 'react-router-dom'
-
-import { About, NotFound, Home } from './pages';
+import React from "react";
+import "./App.css";
+import Main from "./containers/Main";
+import { ThemeProvider } from "styled-components";
+import { chosenTheme } from "./theme";
+import { GlobalStyles } from "./global";
 
 function App() {
   return (
-    <div className="App">
-      <Router basename={process.env.PUBLIC_URL}>
-        <Switch>
-          <Route exact path='/' component={Home} />
-          <Route exact path='/about' component={About} />
-          <Route component={NotFound} status={404} />
-        </Switch>
-      </Router>
-    </div>
+    <ThemeProvider theme={chosenTheme}>
+      <>
+        <GlobalStyles />
+        <div>
+          <Main theme={chosenTheme} />
+        </div>
+      </>
+    </ThemeProvider>
   );
 }
 

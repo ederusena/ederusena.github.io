@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "login": "da2k",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11011075?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "tryber",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55410300?v=4",
+      "__typename": "Organization"
+    }
+  ]
+}
