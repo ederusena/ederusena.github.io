@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.ffa34861.chunk.css",
-    "main.js": "/static/js/main.f6b91d61.chunk.js",
-    "main.js.map": "/static/js/main.f6b91d61.chunk.js.map",
+    "main.js": "/static/js/main.b089b2d4.chunk.js",
+    "main.js.map": "/static/js/main.b089b2d4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4f2f7bd0.js",
     "runtime-main.js.map": "/static/js/runtime-main.4f2f7bd0.js.map",
-    "static/js/2.890e1f2a.chunk.js": "/static/js/2.890e1f2a.chunk.js",
-    "static/js/2.890e1f2a.chunk.js.map": "/static/js/2.890e1f2a.chunk.js.map",
+    "static/js/2.f6d14f96.chunk.js": "/static/js/2.f6d14f96.chunk.js",
+    "static/js/2.f6d14f96.chunk.js.map": "/static/js/2.f6d14f96.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a5ec6c7f457ebfc56c3963b211e12d0a.js": "/precache-manifest.a5ec6c7f457ebfc56c3963b211e12d0a.js",
+    "precache-manifest.f9a02a0e5f2ff567ec251d89902da975.js": "/precache-manifest.f9a02a0e5f2ff567ec251d89902da975.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ffa34861.chunk.css.map": "/static/css/main.ffa34861.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
@@ -22,6 +22,7 @@
     "static/media/data_science.svg": "/static/media/data_science.434d2b01.svg",
     "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.7a9b2eb0.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/devops.png": "/static/media/devops.34c39d1d.png",
     "static/media/dsc_logo.png": "/static/media/dsc_logo.f65ee6f6.png",
     "static/media/ederu.png": "/static/media/ederu.b7c0df61.png",
     "static/media/ederu.png:Zone.Identifier": "/static/media/ederu.png:Zone.dce51917.Identifier",
@@ -42,8 +43,12 @@
     "static/media/jsFramework.svg": "/static/media/jsFramework.b05ae5b5.svg",
     "static/media/legato_logo.png": "/static/media/legato_logo.4ba886ba.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/moviedb.png": "/static/media/moviedb.f20e4a17.png",
+    "static/media/moviedb.png:Zone.Identifier": "/static/media/moviedb.png:Zone.0f1d529d.Identifier",
     "static/media/muffito_logo.png": "/static/media/muffito_logo.db6c1c0d.png",
     "static/media/nptel_logo.png": "/static/media/nptel_logo.cd7077f7.png",
+    "static/media/pokemon.png": "/static/media/pokemon.320da481.png",
+    "static/media/pokemon.png:Zone.Identifier": "/static/media/pokemon.png:Zone.3854e7a4.Identifier",
     "static/media/portfolio.gif": "/static/media/portfolio.6e7dc5ad.gif",
     "static/media/programmer.svg": "/static/media/programmer.c1a95f73.svg",
     "static/media/projects_image.svg": "/static/media/projects_image.f7964c6b.svg",
@@ -57,8 +62,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4f2f7bd0.js",
-    "static/js/2.890e1f2a.chunk.js",
+    "static/js/2.f6d14f96.chunk.js",
     "static/css/main.ffa34861.chunk.css",
-    "static/js/main.f6b91d61.chunk.js"
+    "static/js/main.b089b2d4.chunk.js"
   ]
 }
